@@ -94,7 +94,7 @@ DATABASES = {
         'HOST': os.environ["PGHOST"],
         'PORT': os.environ["PGPORT"],
     }
-
+}
 
 
 # Password validation
