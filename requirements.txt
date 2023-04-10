@@ -6,3 +6,4 @@ sqlparse==0.4.2
 whitenoise==6.2.0
 streamlit==1.21.0
 plotly==5.14.1
+openpyxl==3.1.2
